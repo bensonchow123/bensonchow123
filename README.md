@@ -6,7 +6,7 @@ I am a maker by passion, from small lego creations to a coding project that I wi
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 [More about me](https://bensonchow.xyz/):
+### 🧐 [More about me](https://www.bensonchow.xyz/):
 
 - 🔭 &nbsp; I’m currently working on **MineZone**
 - 🌱 &nbsp; I’m currently learning CSS
