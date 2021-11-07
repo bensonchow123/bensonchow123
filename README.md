@@ -22,18 +22,3 @@ I am a maker by passion, from small lego creations to a coding project that I wi
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 
 <br>
-
-
-### 📊 Github Stats
-<a href='https://github.com/bensonchow123/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/bensonchow123/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/bensonchow123/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
-
-### 🛠️ My Projects
-<a href="https://github.com/bensonchow123/MineZone" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/BensonChowPersonalWebsite" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
