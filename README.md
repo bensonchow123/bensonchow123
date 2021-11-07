@@ -1,7 +1,4 @@
 ## Hey 👋, I'm Benson Chow!
-<a href='https://twitter.com/bensonchow2/'><img align='left' alt="twitter" src="https://github.com/bensonchow123/bensonchow123/blob/main/icons/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/bensonchow123/bensonchow123/561d474902b59c7429ec22bb73e225696c27b202/icons/twitter.svg" height='18px'/></a>
-
 
 I am a maker by passion, from small lego creations to a coding project that I will spend months on, my goal is to build something that is practical to some extent.
 <br/>
