@@ -9,7 +9,7 @@ I enjoy minecraft and enjoys coding as a hobby😊
 ### 🧐 [More about me](https://www.bensonchow.xyz/):
 
 - 🔭 &nbsp; I’m currently working on **MineZone**
-- 🌱 &nbsp; I’m currently learning Javascirpt and Jquery
+- 🌱 &nbsp; I’m currently learning Javascirpt, Jquery and python flask
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bensonchow123?tab=repositories)
 - 🌐 &nbsp; Feel free to visit [my website](https://www.bensonchow.xyz/)
 
