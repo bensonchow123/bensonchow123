@@ -1,4 +1,4 @@
-## Hey 👋, I'm Benson Chow!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFD300&lines=Hey+%F0%9F%91%8B%2C+I'm+Benson+Chow!)](https://git.io/typing-svg)
 
 I am a maker by passion, from small lego creations to a coding project that I will spend months on, my goal is to build something that is practical to some extent.
 <br/>
