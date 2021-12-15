@@ -9,7 +9,7 @@ I am a maker by passion, from small lego creations to a coding project that I wi
 ### 🧐 [More about me](https://www.bensonchow.xyz/):
 
 - 🔭 &nbsp; I’m currently working on **MineZone**
-- 🌱 &nbsp; I’m currently learning Golang
+- 🌱 &nbsp; I’m currently learning Javascirpt and Jquery
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bensonchow123?tab=repositories)
 - 🌐 &nbsp; Feel free to visit [my website](https://www.bensonchow.xyz/)
 
