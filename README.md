@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFD300&lines=Hey+%F0%9F%91%8B%2C+I'm+Benson+Chow!)](https://git.io/typing-svg)
 
-I enjoy minecraft and enjoys coding as a hobby😊
+I enjoy minecraft and enjoys programming as a hobby😊
 <br/>
 <br/>
 
