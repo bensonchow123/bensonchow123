@@ -14,6 +14,6 @@ let benson = {
                        "nextcord"
                        "minezone"
                       },
- challenge: "Advant of code 2021"
+  challenge: "Advant of code 2021"
 }
 ```
