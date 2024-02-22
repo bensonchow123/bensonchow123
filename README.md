@@ -6,8 +6,6 @@ I enjoy programming as a hobby😊
 
 ```javascript
 let benson = {
-  language: ["HTML", "CSS", "Python", "Javascript", "Go"],
-  favouriteTools: ["Flask", "Jquery", "Discord.py", "Nextcord.py", "Pycharm", "Vscode"],
   website: "https://www.bensonchow.cf/",
 }
 ```
