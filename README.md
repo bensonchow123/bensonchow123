@@ -6,6 +6,6 @@ I enjoy programming as a hobby😊
 
 ```javascript
 let benson = {
-  website: "https://www.bensonchow.cf/",
+  website: "https://www.bensonc.how/",
 }
 ```
