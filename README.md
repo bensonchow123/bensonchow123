@@ -7,6 +7,7 @@ I enjoy programming as a hobby😊
 ```javascript
 let benson = {
   website: "https://bensonc.how/",
-  codeburg: "https://codeberg.org/Benson_Chow?tab=activity"
+  codeburg: "https://codeberg.org/Benson_Chow?tab=activity",
+  cryptographicKeys: "https://bensonc.how/keys"
 }
 ```
